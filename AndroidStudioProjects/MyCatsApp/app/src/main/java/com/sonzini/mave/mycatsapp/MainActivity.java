@@ -6,6 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.AdapterView;
+import android.widget.Button;
 import android.widget.GridView;
 
 
@@ -33,6 +34,14 @@ public class MainActivity extends AppCompatActivity {
 
                 i.putExtra("Position", position);
                 startActivity(i);
+            }
+        });
+
+        Button exitButton = (Button) findViewById(R.id.exitButton);
+        exitButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                finish();
             }
         });
     }

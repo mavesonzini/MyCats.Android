@@ -17,4 +17,11 @@
         android:numColumns="auto_fit"
         android:stretchMode="columnWidth"
         />
+
+    <Button
+        android:text=" Exit App!"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/exitButton" />
 </RelativeLayout>
