@@ -29,6 +29,10 @@ Clicking the "Exit App" button will exit the app.
 
 <img width="348" alt="screen shot 2017-02-12 at 7 19 51 pm" src="https://cloud.githubusercontent.com/assets/11363501/22865316/57e0dfc8-f159-11e6-8239-caff3d98cbcc.png">
 
+Build and Install app
+
+To build and install MyCatsApp open the project with Android Studio and click Run!
+
 Credits
 
 María Verónica Sonzini
