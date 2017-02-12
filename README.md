@@ -1,6 +1,6 @@
 MyCatsApp
 
-This application is an image gallery that displayes images of cats. When an image is clicked, the selected picture displayes full screen in a new screen. When clicking on "Exit App" button on the main page, will exit the app.
+This application is an image gallery that displays images of cats. When an image is clicked, the selected picture displayes full screen in a new screen. When clicking on "Exit App" button on the main page, will exit the app.
 
 Usage
 
